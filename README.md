@@ -1,8 +1,5 @@
 # <p align="center">✨ muhamadrizal87 ✨</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00979D&height=250&section=header&text=Muhamad%20Rizal%20Prasetyo&fontSize=60&animation=fadeIn&desc=Information%20Technology%20Student%20|%20IoT%20Developer&descSize=20&descAlignY=65" />
-</p>
 
 ---
 
