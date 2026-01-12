@@ -1,4 +1,4 @@
-# <p align="center">✨ muhamadrizal87 ✨</p>
+# <p align="center">Im Muhamad Rizal</p>
 
 
 ---
