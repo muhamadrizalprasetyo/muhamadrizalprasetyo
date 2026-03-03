@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-I am a passionate **Information Technology student** with a strong background in **Network Engineering** and **IoT Development**. I love turning complex problems into smart, automated solutions.
+I am a passionate **Information Technology student** with a strong background in **Data Engineering** and **IoT Development**. I love turning complex problems into smart, automated solutions.
 
 * 🥇 **Champion Spirit:** National Gold Medalist in Informatics (IASC 2022).
 * 🏛️ **Leadership:** Vice Chairman of HMTI (2025/2026) & Smart Waste Project Lead.
