@@ -48,8 +48,12 @@ I am a passionate **Information Technology student** with a strong background in
 
 ### 📊 My Coding Journey
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhamadrizal87&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadrizal87&theme=radical&hide_border=true&area=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrizal87&layout=compact&theme=radical&hide_border=true&langs_count=5" width="48%" />
 </p>
 
 ---
